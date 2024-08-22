@@ -1,0 +1,1 @@
+first off all i create the new file and folder and then create the basic structure and navigation bar and some styles,and then i create a background color and heiglights i use div tags is so complicated for me im so confused why because its totally changed,after that i complete this code.
